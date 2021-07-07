@@ -1,2 +1,16 @@
-# dataStructureExamples
-Examples of data structures in Java and basic algorithms they are used in
+# Data Structure Examples
+
+---
+
+###Stack 
+
+
+###Queue
+
+###Linked List
+
+###Tree(s)
+
+###Heap
+
+###Graph/Matrices
