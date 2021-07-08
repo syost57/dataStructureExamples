@@ -2,7 +2,10 @@ package queue;
 
 import org.apache.commons.lang3.StringUtils;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Queue;
+import java.util.PriorityQueue;
+import java.util.Scanner;
 
 public class QueueExample {
     public static void main(final String[] args) {
